@@ -1,4 +1,4 @@
-# 🐍 Curso Python – Exercícios Resolvidos | Curso em Vídeo - Guanabara
+# 🐍 Curso Python – Exercícios Resolvidos | Curso  Guanabara Faculdade ADS Analise e Desenvolvimento de Sistemas
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/Learning-Guanabara-yellow?style=flat&logo=github)](https://www.cursoemvideo.com/)
